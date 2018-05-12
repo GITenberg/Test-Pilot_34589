@@ -1,0 +1,31 @@
+_repo: Test-Pilot_34589
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Collins, James
+    alias: Collins, Jimmy
+    birthdate: 1904
+    deathdate: 1935
+    gutenberg_agent_id: '37111'
+    url: http://www.gutenberg.org/2009/agents/37111
+description: ''
+gutenberg_issued: '2010-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34589'
+  lccn: '37000038'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Airplanes -- Testing'
+- !lcc 'TL'
+- !lcsh 'Air pilots'
+- !lcsh 'Test pilots'
+- !lcsh 'Collins, James, 1904-1935'
+title: Test Pilot
+url: http://www.gutenberg.org/ebooks/34589
